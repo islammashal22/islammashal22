@@ -9,7 +9,7 @@
 
 
 
-<h3><img  width="50" src="https://media.tenor.com/Ry6iWcvWdrYAAAAi/excited.gif" alt="Machiko Sun Moon Typing">About Me</h3> 
+<h3><img  width="50" src="https://media.tenor.com/Ry6iWcvWdrYAAAAi/excited.gif">About Me</h3> 
 <h4>I’m Islam Mashal
 	
 <!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mariamibrahimmi4142726@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
