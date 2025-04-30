@@ -1,18 +1,17 @@
 <h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Hi , I'm Islam Mashal </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FF69B4&lines=Computer+Science+student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=33ff86&lines=Computer+Science+student;)](https://git.io/typing-svg)
 
 <br/>
 
 
-<img align="right" width="150" src="https://media.tenor.com/m1RhIkr2usoAAAAi/machiko-sun.gif" >
 
 
 
 
-<h4>I’m Islam Mashal
+<h4>I'm Islam Mashal, Computer Science Student at New Mansoura University, I'm an eager learner, I have a strong interest in Technology.
 	
-<!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mhmdmshl669@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
+<!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mhmdmshl669@gmail.com)](mailto:mhmdmshl669@gmail.com.com) -->
 
 
 
@@ -36,7 +35,7 @@
 
 </p>
  
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 
 
 <div align="center">
@@ -50,15 +49,14 @@
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;<a href=https://www.facebook.com/share/1F9RXKpEtf/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mariam Ibrahim" width="40" height="40"/>
+&nbsp;&nbsp;&nbsp;<a href=https://www.facebook.com/share/1F9RXKpEtf/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mariam Ibrahim" width="35" height="35"/>
 &nbsp;&nbsp;&nbsp;</a>		
 <a href=[www.linkedin.com/in/islam-mashal-b03000331](https://www.linkedin.com/in/islam-mashal-b03000331
-) target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="mariam-ibrahim"  width="45" height="45" />&nbsp;&nbsp;&nbsp;</a>
-<a href="mailto:mariamibrahimmi4142726@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="45" width="45" />  &nbsp;</a> 
+) target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="mariam-ibrahim"  width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
+<a href="mailto:mhmdmshl669@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" />  &nbsp;</a> 
 <!-- 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a> -->
-<a href="https://codeforces.com/profile/mariamibrahim88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mariamibrahim88" width="50" height="50" /> </a>
 
 
 
@@ -76,7 +74,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mariam-ibrahim-642892251)
 <a href="mailto:mariamibrahimmi4142726@gmail.com><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
 
