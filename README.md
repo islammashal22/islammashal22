@@ -12,7 +12,7 @@
 
 <h4>I’m Islam Mashal
 	
-<!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mariamibrahimmi4142726@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
+<!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mhmdmshl669@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
 
 
 
@@ -46,7 +46,6 @@
 
 <hr>
 
-<h3><img width="50" src="https://media.tenor.com/LTqqoUuQqaUAAAAi/tkthao219-quby.gif" alt="Machiko Sun Moon Typing"> Contact Me</h3>
 
 
 <p align="left">
