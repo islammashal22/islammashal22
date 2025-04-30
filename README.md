@@ -1,4 +1,4 @@
-<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Hi , I'm Mariam Ibrahim </h1>
+<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Hi , I'm Islam Mashal </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FF69B4&lines=Computer+Science+student;)](https://git.io/typing-svg)
 
