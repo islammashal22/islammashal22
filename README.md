@@ -6,6 +6,7 @@
 
 
 
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> <strong>About me:</strong>
 
 
 
@@ -45,7 +46,7 @@
 
 <hr>
 
-
+## How to reach me :
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;
@@ -53,10 +54,11 @@
 &nbsp;&nbsp;&nbsp;</a>		
 <a href=[www.linkedin.com/in/islam-mashal-b03000331](https://www.linkedin.com/in/islam-mashal-b03000331
 ) target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="mariam-ibrahim"  width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
-<a href="mailto:mhmdmshl669@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" />  &nbsp;</a> 
+<a href="mailto:mhmdmshl669@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" /> 
 <!-- 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a> -->
+
 
 
 
@@ -98,5 +100,5 @@ islammashal22
 
 ---
 
-<br/>
+<br/></p>
 
