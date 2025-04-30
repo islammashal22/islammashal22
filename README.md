@@ -5,7 +5,7 @@
 <br/>
 
 
-<img align="right" width="300" src="https://media.tenor.com/m1RhIkr2usoAAAAi/machiko-sun.gif" alt="Machiko Sun Moon Typing">
+<img align="right" width="150" src="https://media.tenor.com/m1RhIkr2usoAAAAi/machiko-sun.gif" alt="Machiko Sun Moon Typing">
 
 
 
