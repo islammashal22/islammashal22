@@ -10,8 +10,7 @@
 
 
 <h3><img  width="50" src="https://media.tenor.com/Ry6iWcvWdrYAAAAi/excited.gif" alt="Machiko Sun Moon Typing">About Me</h3> 
-<h4>I’m Mariam Ibrahim ,Computer Science Student at Suez Canal University, I’m an eager learner,I have a strong interest in technology and problem solving, I am gaining expertise in programming languages, data structures, algorithms and software development , i enjoy collaborating with teams and posses strong communication skills.
-<hr> 
+<h4>I’m Islam Mashal
 	
 <!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mariamibrahimmi4142726@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
 
@@ -41,8 +40,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariamibrahim88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariamibrahim88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=islammashal22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islammashal22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <hr>
@@ -97,7 +96,7 @@
 <!-- ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-Mariamibrahim88
+islammashal22
 &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
