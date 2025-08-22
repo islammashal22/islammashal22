@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Almdrasa High school - Class schedule</title>
+    <header>
+      <h1>Almdrasa High School</h1>
+      <nav>
+        <ul>
+          <li><a href="index1.html">Home</a></li>
+          <li><a href="schedule1.html">Class Schedule</a></li>
+          <li><a href="contact1.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+  </head>
+  <main>
+    <h2>Contact Us</h2>
+  </main>
+  <body>
+    <form action="submit_contact.php" method="post">
+      <fieldset>
+        <legend>Your Information</legend>
+        <label for="text">Name:</label>
+        <input
+          id="text"
+          name="text"
+          type="text"
+          minlength="3"
+          maxlength="20"
+          required
+        />
+        <label for="age">Age:</label>
+        <input
+          id="aga"
+          type="number"
+          name="age"
+          min="18"
+          max="99"
+          step="1"
+          required
+        />
+
+        <label for="post_code">Post Code:</label>
+        <input
+          id="post_code"
+          type="text"
+          pattern="^\d{5}$"
+          placeholder="19005"
+        />
+        <label for="email">Email:</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          placeholder="example@gmail.com"
+          required
+        />
+        <label for="reason">Reason for contact:</label>
+        <select id="reason" name="reason">
+          <option value="">Select a reason</option>
+          <option value="general">General Inquiry</option>
+          <option value="admission">Admission Information</option>
+          <option value="event">School Event</option>
+          <option value="other">Other</option>
+        </select>
+      </fieldset>
+      <fieldset>
+        <legend>Message</legend>
+        <label for="text">Subject:</label>
+        <input id="text" name="text" type="text" required />
+        <label for="message">Your Message:</label>
+        <textarea id="message" name="message" required> </textarea>
+      </fieldset>
+      <fieldset>
+        <legend>Preferences</legend>
+
+        <p>Preferences contact method :</p>
+
+        <input type="radio" id="email" name="contact_method" value="email" />
+        <label for="email">Email</label>
+        <input
+          type="radio"
+          id="phone"
+          name="contact_method"
+          value="phone"
+          checked
+        />
+        <label for="phone">Phone</label>
+
+        <br />
+        <br />
+
+        <input type="checkbox" id="newsletter" name="newsletter" />
+        <label for="newsletter">Subscribe to our newsletter</label>
+      </fieldset>
+      <button type="submit">Send Message</button>
+      <button type="reset">Reset</button>
+    </form>
+    <footer>
+      <p>
+        &copy; Almdrasa High School 2025 .All Right Reserved (By: Islam Meshal)
+      </p>
+    </footer>
+  </body>
+</html>
