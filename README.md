@@ -35,10 +35,6 @@
 
 </p>
  
-<div align="center">
-  <img src="https://github-readme-stats-iota-umber.vercel.app/api?username=islammashal22&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-iota-umber.vercel.app/api/top-langs/?username=islammashal22&layout=compact&theme=tokyonight&card_width=320" height="150" alt="languages graph" />
-</div>
 
 
 
