@@ -1,6 +1,6 @@
 <h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Hi , I'm Islam Mashal </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=33ff86&lines=Computer+Science+student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=33ff86&lines=Computer+Science+student;Front-End+Developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,8 +10,12 @@
 
 
 
-<h4>I'm Islam Mashal, Computer Science Student at New Mansoura University, I'm an eager learner, I have a strong interest in Technology.
-	
+
+<h4>
+I'm Islam Mashal, a Computer Science Student at New Mansoura University and a passionate <strong>Front-End Developer</strong>.  
+I love building clean, responsive, and user-friendly web interfaces.  
+I'm an eager learner with a strong interest in Technology and Software Development.
+</h4>	
 <!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mhmdmshl669@gmail.com)](mailto:mhmdmshl669@gmail.com.com) -->
 
 
