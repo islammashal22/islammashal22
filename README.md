@@ -42,7 +42,7 @@ I'm an eager learner with a strong interest in Technology and Software Developme
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;<a href=https://www.facebook.com/share/1F9RXKpEtf/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mariam Ibrahim" width="35" height="35"/>
+&nbsp;&nbsp;&nbsp;<a href=https://www.facebook.com/share/1F9RXKpEtf/ target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mariam Ibrahim" width="35" height="35"/>
 &nbsp;&nbsp;&nbsp;</a>		
 <a href=[www.linkedin.com/in/islam-mashal-b03000331](https://www.linkedin.com/in/islam-mashal-b03000331
 ) target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="mariam-ibrahim"  width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
