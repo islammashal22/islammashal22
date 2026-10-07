@@ -12,7 +12,7 @@
 
 
 <h4>
-I'm Islam Mashal, a Computer Science Student at New Mansoura University and a passionate <strong>Front-End Developer</strong>.  
+I'm Islam Mashal, a Computer Science Student at New Mansoura University and a passionate <strong>Web Developer</strong>.  
 I love building clean, responsive, and user-friendly web interfaces.  
 I'm an eager learner with a strong interest in Technology and Software Development.
 </h4>	
